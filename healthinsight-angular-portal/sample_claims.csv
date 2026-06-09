@@ -1,0 +1,5 @@
+claim_id,patient_id,payer,denial_reason,authorization_id,service_date,billed_amount,provider_location,documentation_status
+CLM-1001,P-001,Aetna,Missing authorization,,2026-05-01,420.00,Clinic-A,Incomplete
+CLM-1002,P-002,Cigna,Invalid payer code,AUTH-557,2026-05-02,215.50,Clinic-B,Complete
+CLM-1003,P-003,Medicaid,Incomplete documentation,AUTH-829,2026-05-02,980.00,Clinic-A,Incomplete
+CLM-1004,P-004,UnitedHealthcare,,AUTH-331,2026-05-03,125.00,Clinic-C,Complete
